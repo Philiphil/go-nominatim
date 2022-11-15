@@ -30,7 +30,7 @@ type (
 
 	Geometry struct {
 		Type        string
-		Coordinates []float64
+		Coordinates [][]float64
 	}
 
 	Feature struct {
