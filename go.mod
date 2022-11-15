@@ -1,3 +1,3 @@
-module github.com/philiphil/go-nominatim v2.0.0
+module github.com/philiphil/go-nominatim
 
 go 1.15
